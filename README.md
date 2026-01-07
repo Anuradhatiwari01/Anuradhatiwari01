@@ -1,4 +1,4 @@
-<p align="left"> # My name is Anuradha Tiwari and I am a Computer Science undergraduate. </p>
+< h1 align="left"> # My name is Anuradha Tiwari and I am a Computer Science undergraduate. </h1>
 
 # 💫 About Me:
 I am a Computer Science undergraduate focused on building practical, working software. I am interested in collaborating on real-world, impact driven projects in web development and AI & ML, especially open-source work where clean code and functionality actually matter. I’m actively improving my skills in React, Java, Machine Learning, databases, and DSA, and I am looking for guidance on backend architecture, scalability, deployment, and system design to make my projects production ready.
