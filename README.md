@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I am Anuradha Tiwari</h1>
+<h3 align="center">CS Undergraduate | Aspiring Web Developer | Web Developer &  ML Enthusiast</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/anuradha-tiwari-529056329" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://leetcode.com/u/anuradha__24/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode">
+  </a>
+</p>
+
+---
+
+
 # 💫 About Me:
 My name is Anuradha Tiwari and I am a Computer Science undergraduate focused on building practical, working software. I am interested in collaborating on real-world, impact driven projects in web development and AI & ML, especially open-source work where clean code and functionality actually matter. I’m actively improving my skills in React, Java, Machine Learning, databases, and DSA, and I am looking for guidance on backend architecture, scalability, deployment, and system design to make my projects production ready.
 
