@@ -15,8 +15,6 @@ My main focus is understanding core programming concepts and applying them throu
 I am currently working on improving my skills in Java, Python, web development, databases,
 and problem-solving using data structures and algorithms.
 
-I prefer learning by building simple, working systems and improving them step by step.
-
 ---
 
 ## Technical Skills
@@ -42,18 +40,8 @@ I prefer learning by building simple, working systems and improving them step by
 - Advanced Object-Oriented Programming
 - Machine Learning (foundations)
 - Search Engines and Information Retrieval
-- Mining Massive Datasets
+- Probelem solving in DSA
 - Computer Organization and Systems
-
----
-
-## GitHub
-This GitHub profile contains:
-- Academic and personal projects
-- Practice repositories for Java and DSA
-- Learning repositories for backend and data-related topics
-
-I focus on writing clear, readable code and improving consistency.
 
 ---
 
