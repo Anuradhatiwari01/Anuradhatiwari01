@@ -144,5 +144,5 @@ Analyzed a large LinkedIn student connection dataset to uncover **connectivity p
   </i>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anuradhatiwari01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Anuradhatiwari01&label=Profile%20Views&color=blue&style=plastic" />
 </p>
