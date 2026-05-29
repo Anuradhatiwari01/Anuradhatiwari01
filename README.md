@@ -140,6 +140,9 @@ Analyzed a large LinkedIn student connection dataset to uncover **connectivity p
 <p align="center">
   <i>
     I believe good software comes from genuine curiosity and consistent effort.<br/>
-    Feel free to explore my repositories — and if something interests you, let's talk. 🙂
+    Feel free to explore my repositories — and if something interests you, let's talk. 
   </i>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anuradhatiwari01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
