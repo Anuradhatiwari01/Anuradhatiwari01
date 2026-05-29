@@ -117,7 +117,7 @@ Analyzed a large LinkedIn student connection dataset to uncover **connectivity p
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anuradhatiwari01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  &nbsp;
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuradhatiwari01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 </p>
 
@@ -144,5 +144,5 @@ Analyzed a large LinkedIn student connection dataset to uncover **connectivity p
   </i>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anuradhatiwari01&label=Profile%20Views&color=blue&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=Anuradhatiwari01&label=Profile%20Views&color=8A2BE2&style=flat-square" />
 </p>
