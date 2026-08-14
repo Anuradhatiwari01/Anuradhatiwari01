@@ -78,6 +78,14 @@ I'm a Computer Science undergraduate at **Sitare University, Lucknow**, on a **1
 
 ## 📌 Featured Projects
 
+### 🤖 [GitMate AI — Intelligent Version Control Mentor](https://git-mate-ai-phi.vercel.app)
+
+Engineered a **full-stack AI assistant** that analyzes raw Git terminal errors and generates safe, context-aware terminal commands. Built a responsive UI using **React (Vite)** and **Tailwind CSS** with markdown rendering, powered by a **FastAPI** backend that leverages the **Groq LLM API** for high-speed inference. Deployed across Vercel and Render with secure CORS configurations.
+
+`React` `Vite` `FastAPI` `Python` `Groq API` `Tailwind CSS` `LLM`
+
+---
+
 ### 💬 [Real Time Chat Application](https://github.com/Anuradhatiwari01/real-time-chat-app)
 Built a full-stack real-time chat web app using **Spring Boot WebSocket** and the **STOMP protocol**. Supports live message broadcasting between multiple users simultaneously. Designed a clean, responsive interface with Bootstrap and maintained a clear separation between frontend (JS/CSS) and backend.
 
